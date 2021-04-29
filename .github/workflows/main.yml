@@ -5,6 +5,7 @@ on:
   push:
     branches:
     - main
+    - test_ci
 
 jobs:
   super-lint:
